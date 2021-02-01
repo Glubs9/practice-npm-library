@@ -1,0 +1,9 @@
+{
+  "name": "@glubs9/tiny",
+  "version": "1.0.0",
+  "description" : "Removes all spaces from a string",
+  "liscence": "MIT",
+  "repository": "glubs9/tiny",
+  "main": "index.js",
+  "keywords": [] 
+}
